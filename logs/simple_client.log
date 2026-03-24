@@ -1,0 +1,1 @@
+2026-03-10 19:11:56.390 | INFO     | __main__:main:15 - meta=None content=[TextContent(type='text', text='12', annotations=None, meta=None)] structuredContent={'result': 12} isError=False
